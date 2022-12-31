@@ -1,14 +1,5 @@
 <!-- Improved compatibility of back to top link: See: [https://github.com/othneildrew/Best-README-Template/pull/73](https://github.com/othneildrew/Best-README-Template/pull/73) -->
 <a name="readme-top"></a>
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown “reference style” links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** [https://www.markdownguide.org/basic-syntax/#reference-style-links](https://www.markdownguide.org/basic-syntax/#reference-style-links)
--->\
-[![LinkedIn][linkedin-shield](https://www.linkedin.com/in/carrgardnere/)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -42,22 +33,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com/)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-- [![Next][Next.js]][Next-url]
-- [![React][React.js]][React-url]
-- [![Vue][Vue.js]][Vue-url]
-- [![Angular][[Angular.io](http://angular.io/)]][Angular-url]
-- [![Svelte][Svelte.dev]][Svelte-url]
-- [![Laravel][[Laravel.com](http://laravel.com/)]][Laravel-url]
-- [![Bootstrap][[Bootstrap.com](http://bootstrap.com/)]][Bootstrap-url]
-- [![JQuery][[JQuery.com](http://jquery.com/)]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- JSON
+- Node.js
+- Express.js
+- JavaScript
 
 <!-- GETTING STARTED -->
 
